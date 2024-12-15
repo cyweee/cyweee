@@ -1,6 +1,6 @@
 <div align="center">
   <h1><strong>Hi everyone!👋</strong></h1>
-  <p>studend and upcoming DevOps/DevSecOps engineer</p>
+  <p>student and upcoming DevOps/DevSecOps engineer</p>
 </div>
 
 
