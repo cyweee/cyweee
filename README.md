@@ -1,14 +1,9 @@
-<div align="center">
-  <h1><strong>Hi everyone!👋</strong></h1>
-  <p>student and upcoming DevOps/DevSecOps engineer</p>
-</div>
+# Wassup y'all
+
+student and upcoming DevOps/DevSecOps Engineer
+
+🐧 linux • 🌐 computer networks • 🔒 cybersecurity • 💻 coding  
 
 
-### 🎯 Hobbies 
-- Programming (web and application development)
-- Linux
-- Computer networks 
-- Cybersecurity
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyweee&layout=compact&theme=dark)
 
----
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyweee&layout=compact&theme=dark" alt="Most Used Languages">
