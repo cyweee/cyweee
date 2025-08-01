@@ -1,5 +1,5 @@
-# Wassup y'all
+# Hi there
 
-student and upcoming Network Security Engr.
+Student and upcoming Network Security Engineer
 
-🐧 linux • 🌐 computer networks • 🔒 cybersecurity • 💻 coding  
+🐧 linux • 🌐 computer networking • 🔒 security • 💻 programming  
